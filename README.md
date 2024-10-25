@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>README - Tech Spark Club Website</title>
+  
 </head>
 <body>
 
   <h1>Tech Spark Club Website</h1>
-  <p>Welcome to the official website repository for <strong>Tech Spark Club</strong>! This platform serves as a hub for tech enthusiasts, offering news, events, and resources to stay up-to-date with the latest in technology.</p>
+  <p>Welcome to the official website repository for <strong>Tech Spark Club</strong>! This platform serves as a hub for tech enthusiasts, offering events, and resources to stay up-to-date with the latest in technology.</p>
 
   <h2>Features</h2>
   <ul>
@@ -35,11 +35,11 @@
     <li><strong>Navigate to the project folder</strong>:
       <pre><code>cd tech-spark-club</code></pre>
     </li>
-    <li><strong>Install dependencies</strong>:
+<!--     <li><strong>Install dependencies</strong>:
       <pre><code>npm install</code></pre>
     </li>
     <li><strong>Run the project locally</strong>:
-      <pre><code>npm start</code></pre>
+      <pre><code>npm start</code></pre> -->
     </li>
     <li><strong>View the project</strong>:
       <p>Open <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> in your browser to see the website.</p>
